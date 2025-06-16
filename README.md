@@ -1,4 +1,4 @@
-# Renan Oliveira Fernandes
+# Renan Fernandes
 
 Cientista de Dados com experiência em Data Science, Engenharia de Dados, BI e Machine Learning. Atuo no desenvolvimento de soluções baseadas em dados para transformar informações em decisões inteligentes.
 
