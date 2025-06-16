@@ -15,40 +15,24 @@
 
 ### 🧑‍🎓 **Formações Relevantes**
 
-- **R para Data Science**
-- **Estatística com R**
-- **Python para Data Science**
-- **Estatística com Python**
-- **Excel**
-- **Conhecendo SQL**
-- **Business Intelligence com Excel**
-- **Power BI**
-- **Tableau**
-- **Google Looker Studio**
-- **Gestão e Aplicações SAP**
-- **Qlik Sense**
-- **SQL com PostgreSQL**
-- **Consultas com MySQL**
-- **Microsoft SQL Server 2022**
-- **MongoDB**
-- **Data Warehouse com Data Lake e SQL Server**
-- **IA aumentada: otimização e tomada de decisões**
-- **Machine Learning com Python: Regressão**
-- **Machine Learning com Python: Classificação**
-- **Machine Learning para Negócios Digitais**
-- **Visão Computacional com OpenCV**
-- **Deep Learning com Pytorch**
-- **NLP com Python**
-- **Machine Learning Avançada**
-- **CD4ML: Continuous Delivery for Machine Learning**
-- **Primeiros passos com Engenharia de Dados**
-- **Apache Airflow**
-- **Apache Spark com Python**
-- **Engenharia de dados com Databricks**
-- **Data Mesh**
-- **BigQuery**
-- **Otimização com Python**
-- **Data Warehouse com Data Marts e Power BI**
+- 🧮 **Data Science & Estatística:**  
+  R para Data Science • Estatística com R • Python para Data Science • Estatística com Python
+
+- 📊 **Business Intelligence & Visualização:**  
+  Excel • BI com Excel • Power BI • Tableau • Looker Studio • Qlik Sense
+
+- 🗄️ **Bancos de Dados & SQL:**  
+  SQL • PostgreSQL • MySQL • SQL Server 2022 • MongoDB • Data Warehouse • BigQuery
+
+- 🤖 **Machine Learning & IA:**  
+  IA aumentada • ML com Python (Regressão, Classificação, Avançada) • ML para Negócios Digitais • Visão Computacional • Deep Learning • NLP • Otimização
+
+- ⚙️ **Engenharia de Dados:**  
+  Eng. de Dados • Apache Airflow • Spark • Databricks • Data Mesh • CD4ML
+
+- 🏢 **Gestão & SAP:**  
+  SAP
+
 
 ---
 
