@@ -4,7 +4,6 @@ Cientista de Dados com experiência em Data Science, Engenharia de Dados, BI e M
 
 - **LinkedIn:** [renan-oliveira-fernandes-50319b172](https://www.linkedin.com/in/renan-oliveira-fernandes-50319b172/)
 - **E-mail:** renanofernandes@gmail.com
-- **Portfólio:** [github.com/renanofernandes](https://github.com/renanofernandes)
 
 ## Competências
 
