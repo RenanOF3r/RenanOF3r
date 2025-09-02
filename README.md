@@ -1,6 +1,6 @@
 # Renan Fernandes
 
-Cientista de Dados com experiência em Data Science, Engenharia de Dados, BI e Machine Learning. Atuo no desenvolvimento de soluções baseadas em dados para transformar informações em decisões inteligentes.
+Data Science, Engenharia de Dados, BI e Machine Learning. Atuo no desenvolvimento de soluções baseadas em dados para transformar informações em decisões inteligentes.
 
 - **LinkedIn:** [renan-oliveira-fernandes-50319b172](https://www.linkedin.com/in/renan-oliveira-fernandes-50319b172/)
 - **E-mail:** renanofernandes@gmail.com
